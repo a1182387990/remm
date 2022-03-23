@@ -1,0 +1,58 @@
+2022-03-23 13:53:17 [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.4.2[0m
+2022-03-23 13:53:17 [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+2022-03-23 13:53:17 [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+2022-03-23 13:53:17 [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+2022-03-23 13:53:17 [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmanager[0m
+2022-03-23 13:53:18 [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+2022-03-23 13:53:18 [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+2022-03-23 13:53:21 [W] [38;5;167;1mdiagnostic[0m plugin [38;5;167mdataview[0m is missing required service [38;5;167mdatabase[0m
+2022-03-23 13:53:31 [E] [38;5;78;1mapp[0m cannot resolve plugin "adapter-null"
+2022-03-23 14:01:58 [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+2022-03-23 14:04:16 [I] [38;5;178;1mmarket[0m > koishi-plugin-gocqhttp@2.2.4 postinstall F:\project\remm\remm\node_modules\koishi-plugin-gocqhttp
+2022-03-23 14:04:16 [I] [38;5;178;1mmarket[0m > node install
+2022-03-23 14:04:48 [W] [38;5;178;1mmarket[0m npm
+2022-03-23 14:04:48 [W] [38;5;178;1mmarket[0m WARN lodash-unified@1.0.2 requires a peer of @types/lodash-es@* but none is installed. You must install peer dependencies yourself.
+2022-03-23 14:04:48 [W] [38;5;178;1mmarket[0m npm WARN
+2022-03-23 14:04:48 [W] [38;5;178;1mmarket[0m optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules\fsevents):
+2022-03-23 14:04:48 [W] [38;5;178;1mmarket[0m npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2022-03-23 14:04:48 [I] [38;5;178;1mmarket[0m added 7 packages from 2 contributors and audited 385 packages in 37.633s
+2022-03-23 14:04:48 [I] [38;5;178;1mmarket[0m 71 packages are looking for funding
+2022-03-23 14:04:48 [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+2022-03-23 14:04:48 [I] [38;5;178;1mmarket[0m found 0 vulnerabilities
+2022-03-23 14:08:01 [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+2022-03-23 14:26:43 [I] [38;5;78;1mapp[0m reload plugin [38;5;78mgocqhttp[0m
+2022-03-23 14:28:15 [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-discord[0m
+2022-03-23 14:28:28 [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-discord[0m
+2022-03-23 14:30:04 [D] [38;5;32;1mgocqhttp[0m 当前版本:v1.0.0-rc1
+2022-03-23 14:30:04 [W] [38;5;32;1mgocqhttp[0m 虚拟设备信息不存在, 将自动生成随机设备.
+2022-03-23 14:30:04 [D] [38;5;32;1mgocqhttp[0m 已生成设备信息并保存到 device.json 文件. 
+2022-03-23 14:30:04 [D] [38;5;32;1mgocqhttp[0m 开始尝试登录并同步消息... 
+2022-03-23 14:30:04 [D] [38;5;32;1mgocqhttp[0m 使用协议: iPad
+2022-03-23 14:30:04 [D] [38;5;32;1mgocqhttp[0m Protocol -> connect to server: 180.109.192.45:14000
+2022-03-23 14:30:05 [W] [38;5;32;1mgocqhttp[0m 登录需要滑条验证码, 请使用手机QQ扫描二维码以继续登录.
+2022-03-23 14:30:05 [D] [38;5;32;1mgocqhttp[0m 请使用手机QQ扫描二维码 (qrcode.png) :
+2022-03-23 14:30:26 [D] [38;5;32;1mgocqhttp[0m 扫码成功, 请在手机端确认登录.
+2022-03-23 14:30:28 [D] [38;5;32;1mgocqhttp[0m 登录成功 欢迎使用: 真寻 
+2022-03-23 14:30:28 [D] [38;5;32;1mgocqhttp[0m 开始加载好友列表...
+2022-03-23 14:30:28 [D] [38;5;32;1mgocqhttp[0m 共加载 16 个好友. 
+2022-03-23 14:30:28 [D] [38;5;32;1mgocqhttp[0m 开始加载群列表...
+2022-03-23 14:30:30 [D] [38;5;32;1mgocqhttp[0m 共加载 4 个群.
+2022-03-23 14:30:31 [D] [38;5;32;1mgocqhttp[0m 资源初始化完成, 开始处理信息. 
+2022-03-23 14:30:31 [D] [38;5;32;1mgocqhttp[0m アトリは、高性能ですから!
+2022-03-23 14:30:31 [D] [38;5;32;1mgocqhttp[0m 正在检查更新. 
+2022-03-23 14:30:31 [D] [38;5;32;1mgocqhttp[0m CQ WebSocket 服务器已启动: 127.0.0.1:6700
+2022-03-23 14:30:32 [D] [38;5;32;1mgocqhttp[0m 检查更新完成. 当前已运行最新版本.
+2022-03-23 14:30:36 [D] [38;5;32;1mgocqhttp[0m 开始诊断网络情况
+2022-03-23 14:30:37 [D] [38;5;32;1mgocqhttp[0m 网络诊断完成. 未发现问题
+2022-03-23 14:31:30 [D] [38;5;32;1mgocqhttp[0m Bot 账号在客户端 Android (Android) 登出.
+2022-03-23 14:33:20 [D] [38;5;32;1mgocqhttp[0m 收到好友 一ベ七ミ(1182387960) 的消息: 天王盖地虎 (1800755128)
+2022-03-23 14:34:21 [W] [38;5;178;1mmarket[0m npm WARN
+2022-03-23 14:34:21 [W] [38;5;178;1mmarket[0m lodash-unified@1.0.2 requires a peer of @types/lodash-es@* but none is installed. You must install peer dependencies yourself.
+2022-03-23 14:34:21 [W] [38;5;178;1mmarket[0m npm WARN
+2022-03-23 14:34:21 [W] [38;5;178;1mmarket[0m optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules\fsevents):
+2022-03-23 14:34:21 [W] [38;5;178;1mmarket[0m npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2022-03-23 14:34:22 [I] [38;5;178;1mmarket[0m audited 385 packages in 4.374s
+2022-03-23 14:34:22 [I] [38;5;178;1mmarket[0m 71 packages are looking for funding
+2022-03-23 14:34:22 [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+2022-03-23 14:34:22 [I] [38;5;178;1mmarket[0m found 0 vulnerabilities
+2022-03-23 14:42:18 [I] [38;5;78;1mapp[0m terminated by SIGINT

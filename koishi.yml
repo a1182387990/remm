@@ -1,9 +1,21 @@
 port: 8080
-
 plugins:
   console:
     open: true
-  dataview:
-  logger:
-  manager:
-  status:
+  dataview: null
+  logger: null
+  manager: null
+  status: null
+  adapter-null: {}
+  adapter-onebot:
+    bots:
+      - selfId: '3582006887'
+        password: 20010420xxP
+        endpoint: ws://127.0.0.1:6700
+        gocqhttp: true
+        protocol: ws
+        disabled: false
+  gocqhttp: null
+  ~adapter-discord: null
+  pics: null
+  api: null

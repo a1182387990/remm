@@ -36,7 +36,11 @@
     "@koishijs/plugin-dataview": "^1.2.1",
     "@koishijs/plugin-logger": "^1.2.2",
     "@koishijs/plugin-manager": "^1.5.9",
+    "@koishijs/plugin-rate-limit": "1.1.1",
     "@koishijs/plugin-status": "^5.3.3",
-    "koishi": "^4.4.1"
+    "koishi": "^4.4.1",
+    "koishi-plugin-api": "1.0.2",
+    "koishi-plugin-gocqhttp": "2.2.4",
+    "koishi-plugin-pics": "8.6.8"
   }
 }
